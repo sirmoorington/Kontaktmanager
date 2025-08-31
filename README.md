@@ -4,7 +4,11 @@ With this project, you can easily keep track of your connections by adding, edit
 **Features:**
 
 Add contacts with details
+
 Remove contacts you no longer need
+
 Edit existing contact information
+
 Search through contacts efficiently
+
 Display all saved contacts in a list
